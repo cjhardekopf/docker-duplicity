@@ -1,0 +1,19 @@
+# Duplicity general requirements
+lockfile
+# AWS S3
+boto
+# Rackspace Cloud
+pyrax
+# Dropbox
+dropbox
+# Copy.com
+urllib3
+# Google Docs
+gdata
+# SSH
+paramiko
+pycrypto
+# OpenStack Object Storage
+python-swiftclient
+python-keystoneclient
+
